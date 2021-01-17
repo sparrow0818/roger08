@@ -1,0 +1,50 @@
+body
+
+{ 
+	margin:0%;
+	text-align: center;
+	background-color:#20c997;
+	padding-top:5px;
+	font-family:Segoe UI Emoji;
+	background-image:url("bg.png");
+	background-repeat:no-repeat;
+	background-position: top right;
+	
+	
+	
+}
+.gamer1{
+	display:inline-block;
+	text-align: center;
+	margin-right: 50px;
+	padding-right:150px;
+}
+.gamer2{
+	display:inline-block;
+	text-align: center;
+	margin-left: 50px;
+	padding-left:150px;
+	
+}
+.click1{
+	text-align:center;
+	background-color:yellow;
+	padding: 4px 40px 4px 40px;
+}
+.click2{
+	text-align:center;
+	background-color:yellow;
+	padding: 4px 50px 4px 50px;
+	text-decoration: none;
+	font-size:20px;
+}
+	
+.dice1{
+	padding-right:100px;
+	
+
+}
+.dice2{
+	padding-left:100px;
+	
+}
