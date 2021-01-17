@@ -18,11 +18,11 @@
 
             document.querySelector(".dice1").setAttribute("src", 
 
-                "kahitano" + randomNumber1 + ".png"); 
+                "sparrow" + randomNumber1 + ".png"); 
 
             document.querySelector(".dice2").setAttribute("src", 
 
-                "kahitano" + randomNumber2 + ".png"); 
+                "sparrow" + randomNumber2 + ".png"); 
 
 
             if (randomNumber1 === randomNumber2) { 
